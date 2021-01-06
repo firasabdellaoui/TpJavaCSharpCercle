@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://Service/" targetNamespace="http://Service/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="CalculerPerimetre" type="tns:CalculerPerimetre" />
+  <xs:element name="CalculerPerimetreResponse" type="tns:CalculerPerimetreResponse" />
+  <xs:element name="CalculerSurface" type="tns:CalculerSurface" />
+  <xs:element name="CalculerSurfaceResponse" type="tns:CalculerSurfaceResponse" />
+  <xs:complexType name="CalculerSurface">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="tns:cercle" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="cercle">
+    <xs:sequence>
+      <xs:element name="rayon" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CalculerSurfaceResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CalculerPerimetre">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="tns:cercle" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:complexType name="CalculerPerimetreResponse">
+    <xs:sequence>
+      <xs:element name="return" type="xs:double" />
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

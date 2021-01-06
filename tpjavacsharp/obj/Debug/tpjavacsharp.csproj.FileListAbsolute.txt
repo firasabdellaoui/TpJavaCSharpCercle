@@ -1,0 +1,27 @@
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.exe.config
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.exe
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.pdb
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.csprojResolveAssemblyReference.cache
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.Form1.resources
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.Properties.Resources.resources
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.csproj.GenerateResource.Cache
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.exe
+C:\Users\mm\Desktop\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.pdb
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.exe.config
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.exe
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.pdb
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.exe
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.pdb
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.csprojResolveAssemblyReference.cache
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.Form1.resources
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.Properties.Resources.resources
+C:\Users\mm\Desktop\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.csproj.GenerateResource.Cache
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.exe.config
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.exe
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\bin\Debug\tpjavacsharp.pdb
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.csprojAssemblyReference.cache
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.Form1.resources
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.Properties.Resources.resources
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.csproj.GenerateResource.cache
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.exe
+C:\Users\mm\Desktop\Nouveau dossier (2)\2020\tpjavacsharp\tpjavacsharp\obj\Debug\tpjavacsharp.pdb
